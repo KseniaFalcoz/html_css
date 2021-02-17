@@ -1,0 +1,26 @@
+
+.blue {
+    background-color: rgb(76, 95, 240);
+}
+.blue legend {
+    background-color: rgb(76, 95, 240);
+}
+.violet {
+    background-color: rgb(125, 36, 203);
+}
+.violet legend{
+    background-color: rgb(125, 36, 203);
+}
+.red {
+    background-color: rgb(213, 6, 102);
+}
+.red legend {
+    background-color: rgb(213, 6, 102);
+}
+input {
+    height: 17px;
+    border: none;
+    padding-left: 10px;
+    margin-top: 2px;
+    border-radius: 2px;
+}

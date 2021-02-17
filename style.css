@@ -1,0 +1,14 @@
+h1 {
+    font-family: Verdana;
+    color: darkslateblue;
+    text-align: center;
+}
+h2 {
+    font-family: Tahoma;
+    color: darkmagenta;
+    text-align: center;
+}
+p {
+    font-style: italic;
+    text-align: center;
+}
